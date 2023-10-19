@@ -3,6 +3,9 @@
 
 This project is a Netflix clone built with React, Tailwind CSS, and Firebase. It allows users to sign in, sign up, and save their favorite shows or movies. Additionally, the application fetches data from the Movie Database (TMDB) API to provide a wide selection of content.
 
+![Screenshot](src/images/screenshot.png)
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
